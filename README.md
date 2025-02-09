@@ -12,4 +12,4 @@
 ![preview #2](Images/2.png)
 
 ## License
-[MIT](https://github.com/capital0v/Vexium-Counter-Strike-Source/blob/main/LICENSE)
+[MIT](https://github.com/capital0v/Simple-Glow-CS2/blob/main/LICENSE)
